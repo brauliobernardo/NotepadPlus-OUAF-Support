@@ -1,6 +1,6 @@
 # OUAF Script Notepad++ User-Defined Language (UDL)
 
-![OUAF Script Logo](Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/brauliobernardo/NotepadPlus-OUAF-Support/main/Screenshot.PNG)
 
 Welcome to the OUAF Script Notepad++ User-Defined Language (UDL) repository! This repository contains custom syntax highlighting definitions for Notepad++ to make working with OUAF Script files easier and more efficient.
 
