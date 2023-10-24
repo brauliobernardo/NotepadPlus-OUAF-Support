@@ -6,7 +6,7 @@ Welcome to the OUAF Script Notepad++ User-Defined Language (UDL) repository! Thi
 
 ## Features
 
-![Screenshot](https://raw.githubusercontent.com/brauliobernardo/NotepadPlus-OUAF-Support/main/Screenshot2.PNG)
+![Screenshot](https://raw.githubusercontent.com/brauliobernardo/NotepadPlus-OUAF-Support/main/ScreenshotDark.PNG)
 
 - **Syntax Highlighting:** The UDL files included in this repository provide syntax highlighting for OUAF (Config Tools) Script, making code more readable.
 - **Dark Mode:** Provides an UDL that works great with Notepad++ default dark mode theme.
